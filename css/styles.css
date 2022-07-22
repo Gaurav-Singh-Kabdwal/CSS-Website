@@ -88,6 +88,11 @@ p {
   text-align: left;
 }
 
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
 .footer-link {
   font-style: normal;
   font-family: 'Montserrat', sans-serif;
@@ -115,12 +120,16 @@ p {
 }
 
 .btm {
-  margin-bottom: 60px;
+
+  margin: auto auto 60px;
+  width: 40%;
+
 }
 
 #cr {
   color: #EAF6F6;
   font-size: .7rem;
   padding-top: 20px;
-  margin-bottom: 0;
+  margin: auto auto 0;
+  width: 50%;
 }
